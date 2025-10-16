@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name" translatable="false">button</string>
+    <string name="text" translatable="false">lorem ipsum itu sangat menarik dan pagi ku cerah matahari bersinar ku gendong tas merahku dipundak
+    kjafhsk;jfdh kjfbaskjfj sbfjsbfbf bfjasjbfja sfblkjsdb sfbjsdbf sfbjsf sfbsjdf sbfja fbjsf
+    askfkjsbf ssbfkj faurhrgkrsh kjskjbvv dasgff</string>
+    <string name="todo" translatable="false">TODO</string>
+    <string name="desc_image_header_1" translatable="false">gambar</string>
+    <string name="desc_image_cooking" translatable="false">gambar</string>
+    <string name="desc_image_section_3" translatable="false">gambar</string>
+    <string name="desc_image_footer" translatable="false">gambar</string>
+</resources>
